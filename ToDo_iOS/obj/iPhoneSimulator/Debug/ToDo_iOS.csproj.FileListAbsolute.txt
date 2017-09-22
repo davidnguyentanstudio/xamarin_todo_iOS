@@ -1,0 +1,9 @@
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/ToDo_iOS.csproj.CoreCompileInputs.cache
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/bin/iPhoneSimulator/Debug/ToDo_iOS.exe
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/bin/iPhoneSimulator/Debug/ToDo_iOS.pdb
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/ToDo_iOS.exe
+/Users/david/Projects/CSharp/TrainingProjects/ToDo_iOS/ToDo_iOS/obj/iPhoneSimulator/Debug/ToDo_iOS.pdb

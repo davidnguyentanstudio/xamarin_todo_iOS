@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6508714C-B299-41FB-BF4B-0D88C0215B3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDo_iOS/Views/NoteTableViewCell.cs">
+    <Files>
+      <File FileName="ToDo_iOS/Controllers/NewNoteViewController.cs" Line="1" Column="1" />
+      <File FileName="ToDo_iOS/Models/Note.cs" Line="1" Column="1" />
+      <File FileName="ToDo_iOS/Controllers/NotesListViewController.cs" Line="23" Column="86" />
+      <File FileName="ToDo_iOS/Views/NoteTableViewCell.cs" Line="52" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDo_iOS" expanded="True">
+            <Node name="ToDo_iOS" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="NoteTableViewCell.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ToDo__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.56955321-7DC7-43C4-A998-AD2F94698AD3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
